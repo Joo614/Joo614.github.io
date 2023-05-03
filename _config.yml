@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: 프로필.jpg
+about_profile_image: images/프로필.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요, 주현주입니다.  
   저는 전혀 다른 직종에서 일을 하다 프로그래밍에 빠져들어, 2022년 8월부터 시작한 국비지원 교육을 수료하였습니다.
@@ -127,7 +127,7 @@ content:
           - <strong>설명 :</strong> 탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 서비스입니다.
           ( 코드스테이츠 부트캠프에서 진행한 프로젝트 입니다. )
           - <strong>프로젝트 구조 :</strong>
-          <center><img src="images/yata 기술 스택.png" width="70%" title="YATA 프로젝트" alt="YATA 프로젝트" style = "c"></center>
+          <center><img src="images/yata 기술 스택.PNG" width="70%" title="YATA 프로젝트" alt="YATA 프로젝트" style = "c"></center>
           - <strong>맡은 역할 :</strong> 백엔드 개발
             - 게시물에 신청 / 초대 기능 구현
             - 신청 수락 / 거절 기능 구현
