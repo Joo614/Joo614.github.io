@@ -108,7 +108,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: YATA (야!타) ⠀⠀⠀⠀⠀카 쉐어링 서비스
+        title: YATA (야!타) 카 쉐어링 서비스
         link: https://yata-tau.vercel.app/
         caption : 2023.01.04 - 2023.02.05
         sub_title : TEAM PROJECT
@@ -147,7 +147,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 코드스테이츠 백엔드 ⠀부트캠프 41기
+        title: 코드스테이츠 백엔드 부트캠프 41기
         caption: 2022.08 - 2023.02 (6개월)
         sub_title: Advanced software engineering, Immersive program
 #        quote: | # this will include new lines to allow paragraphs
