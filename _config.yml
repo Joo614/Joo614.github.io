@@ -145,7 +145,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: 코드스테이츠 백엔드 부트캠프 41기
         caption: 2022.08 - 2023.02 (6개월)
         sub_title: Advanced software engineering, Immersive program
@@ -153,7 +153,7 @@ content:
           - Java를 활용해 MVC 패턴과 Spring Boot 기반인 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 중점으로 학습  
           - 20주 동안 매일 알고리즘 문제 풀이 및 페어 프로그래밍 참여로, 페어와 함께 과제 수행 및 코드 리뷰  
           - 협업 프로젝트 2회 진행 ( 2주 프로젝트 / 4주 프로젝트 )
-      - layout: top-middle
+      - layout: left
         title: 장안대학교
         caption: 2018.03 - 2020.02
         sub_title: 호텔경영학과
