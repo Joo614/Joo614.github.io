@@ -108,7 +108,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: YATA (야!타) 카 쉐어링 서비스
+        title: YATA (야!타) ⠀⠀⠀⠀카 쉐어링 서비스
         link: https://yata-tau.vercel.app/
         caption : 2023.01.04 - 2023.02.05
         sub_title : TEAM PROJECT
@@ -124,6 +124,7 @@ content:
           코드스테이츠 부트캠프에서 진행한 프로젝트입니다.
         description: | # this will include new lines to allow paragraphs
           - <strong>인원 :</strong> 백엔드 3인 + 프론트엔드 3인
+          <br><br>
           - <strong>설명 :</strong> 택시비가 급증함에 따라, 탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 카 쉐어링 서비스입니다. 🚖
           <br><br>
           - <strong>프로젝트 구조 :</strong>
@@ -134,7 +135,6 @@ content:
             - 포인트 결제 및 충전 / 결제 내역 조회 기능 구현
             - 슬라이스를 이용한 페이징 처리
             - Hibernate 2차 캐시를 통한 애플리케이션 성능 개선
-            - 회의록 작성
           <br><br>
           - <strong>기여한 점 :</strong>
             - AOP를 사용한 코드 분리로 클린 코드 추구
@@ -147,7 +147,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 코드스테이츠 백엔드    부트캠프 41기
+        title: 코드스테이츠 백엔드 ⠀⠀부트캠프 41기
         caption: 2022.08 - 2023.02 (6개월)
         sub_title: Advanced software engineering, Immersive program
 #        quote: | # this will include new lines to allow paragraphs
