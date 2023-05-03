@@ -46,19 +46,19 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/1.jpg
+about_profile_image: 프로필.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요, 주현주입니다.
+  안녕하세요, 주현주입니다.  
   저는 전혀 다른 직종에서 일을 하다 프로그래밍에 빠져들어, 2022년 8월부터 시작한 국비지원 교육을 수료하였습니다.
   <br><br>
-  처음 배울 땐 많이 어려웠지만 막상 배우면서 어려운 에러를 핸들링하며 해결하였을 때 느꼈던 엄청난 쾌감과,
-  완전히 빠져들어 생활 패턴까지 바뀐 저를 발견하게 되면서,
+  처음 배울 땐 많이 어려웠지만 막상 배우면서 어려운 에러를 핸들링하며 해결하였을 때 느꼈던 엄청난 쾌감과,  
+  완전히 빠져들어 생활 패턴까지 바뀐 저를 발견하게 되면서,  
   기능 개발이 제 적성에 굉장히 잘 맞는다는 것을 느끼고 어렵고 힘들어도 즐기며 일을 할 수 있는 개발자의 길을 택하였습니다.
   <br><br>
   적응력이 좋고 한 번 시작한 것은 끝을 보는 끈기 있는 성격이며, 부트캠프 수료 이후에도 지속적으로 발전하려고 노력하고 있습니다.
   <br><br>
-  저는 오버 커뮤니케이션을 지향합니다.
-  프로젝트를 진행하면서 이는 곧 프로젝트의 결과물과 직결된다는 것을 깨달았습니다.
+  저는 오버 커뮤니케이션을 지향합니다.  
+  프로젝트를 진행하면서 이는 곧 프로젝트의 결과물과 직결된다는 것을 깨달았습니다.  
   보다 많은 커뮤니케이션을 통해 개개인의 성장과 더불어 좋은 결과물을 만들고 싶습니다.
   <br><br>
   <h5>나의 깃허브 잔디</h5>
@@ -80,7 +80,7 @@ content:
 #          * <strong>긍정적인 에너지와 의사소통에 강점</strong><br>
 #            -> 부트캠프에서 여러 번의 페어 프로그래밍을 하며 들은 피드백 중 가장 많이 받은 리뷰입니다.
 #            -> 긍정적인 에너지를 보유하고 사람들에게 전파합니다.
-  - title: <strong>Skills</strong> # Title for the section
+  - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -124,7 +124,8 @@ content:
           택시비가 급증함에 따라, 저렴하고 쉽게 이용할 수 있는 카 쉐어링 서비스입니다. 🚖
         description: | # this will include new lines to allow paragraphs
           - <strong>인원 :</strong> 백엔드 3인 + 프론트엔드 3인
-          - <strong>설명 :</strong> 탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 서비스입니다. ( 코드스테이츠 부트캠프에서 진행한 프로젝트 입니다. )
+          - <strong>설명 :</strong> 탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 서비스입니다.
+          ( 코드스테이츠 부트캠프에서 진행한 프로젝트 입니다. )
           - <strong>프로젝트 구조 :</strong>
           <center><img src="images/yata 기술 스택.png" width="70%" title="YATA 프로젝트" alt="YATA 프로젝트" style = "c"></center>
           - <strong>맡은 역할 :</strong> 백엔드 개발
@@ -134,14 +135,14 @@ content:
             - 슬라이스를 이용한 페이징 처리
             - Hibernate 2차 캐시를 통한 애플리케이션 성능 개선
             - 회의록 작성
-          - <storng>기여한 점 :</strong>
+          - <strong>기여한 점 :</strong>
             - AOP를 사용한 코드 분리로 클린 코드 추구
             - JUnit, Mockito, Asciidoctor을 활용한 테스트 코드 / 문서화를 통해 프론트와의 원활한 의사소통을 이루어냄
             - Hibernate 2차 캐시 도입을 통한 데이터 조회 속도 60% 개선
             - 꾸준하고 구체적인 회의록 작성으로, 길고 잦은 회의에도 불구하고 각자의 의견과 애플리케이션의 나아갈 방향을 쉽고 빠르게 파악할 수 있었음
           
 
-  - title: <strong>Education</strong> # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -149,8 +150,8 @@ content:
         caption: 2022.08 - 2023.02 (6개월)
         sub_title: Advanced software engineering, Immersive program
         quote: | # this will include new lines to allow paragraphs
-          - Java를 활용해 MVC 패턴과 Spring Boot 기반인 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 중점으로 학습
-          - 20주 동안 매일 알고리즘 문제 풀이 및 페어 프로그래밍 참여로, 페어와 함께 과제 수행 및 코드 리뷰
+          - Java를 활용해 MVC 패턴과 Spring Boot 기반인 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 중점으로 학습  
+          - 20주 동안 매일 알고리즘 문제 풀이 및 페어 프로그래밍 참여로, 페어와 함께 과제 수행 및 코드 리뷰  
           - 협업 프로젝트 2회 진행 ( 2주 프로젝트 / 4주 프로젝트 )
       - layout: top-middle
         title: 장안대학교
@@ -160,18 +161,18 @@ content:
           - 필리핀 어학연수 장학생 2회 연속 선발
           <br><br>
 
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+#  - title: Experience
+#    layout: list
+#    content:
+#      - layout: right
+#        title: Company name
+#        sub_title: Job title
+#        caption: Date Range (eg. November 2016 - present)
+#        link: Link to company (optional)
+#        quote: >
+#          Short description of the company (optional)
+#        description: | # this will include new lines to allow paragraphs
+#          Description of role
 #  - title: Education
 #    layout: list
 #    content:
