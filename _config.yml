@@ -110,7 +110,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: YATA (야!타) 카 쉐어링 서비스
         link: https://yata-tau.vercel.app/
-        caption : 2023.01.04 - 2023.02.05
+        caption : 2023.01 - 2023.02
         sub_title : TEAM PROJECT
 #        link_text: Link Text
         additional_links:
@@ -124,9 +124,7 @@ content:
           코드스테이츠 부트캠프에서 진행한 프로젝트입니다.
         description: | # this will include new lines to allow paragraphs
           - <strong>인원 :</strong> 백엔드 3인 + 프론트엔드 3인
-          <br><br>
-          - <strong>설명 :</strong> 택시비가 급증함에 따라, 탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 카 쉐어링 서비스입니다. 🚖
-          <br><br>
+          - <strong>설명 :</strong> 택시비가 급증함에 따라, 탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 <strong>카 쉐어링 서비스</strong>입니다. 🚖
           - <strong>프로젝트 구조 :</strong>
           <center><img src="images/yata 기술 스택.PNG" width="70%" title="YATA 프로젝트" alt="YATA 프로젝트" style = "c"></center>
           - <strong>맡은 역할 :</strong> 백엔드 개발
@@ -134,6 +132,7 @@ content:
             - 신청 수락 / 거절 기능 구현
             - 포인트 결제 및 충전 / 결제 내역 조회 기능 구현
             - 슬라이스를 이용한 페이징 처리
+            - AOP를 이용한 기능 분리
             - Hibernate 2차 캐시를 통한 애플리케이션 성능 개선
           <br><br>
           - <strong>기여한 점 :</strong>
@@ -148,7 +147,7 @@ content:
     content:
       - layout: left
         title: 코드스테이츠 백엔드 부트캠프 41기
-        caption: 2022.08 - 2023.02 (6개월)
+        caption: 2022.08 - 2023.02
         sub_title: Advanced software engineering, Immersive program
 #        quote: | # this will include new lines to allow paragraphs
         description: |
@@ -161,7 +160,7 @@ content:
         sub_title: 호텔경영학과
 #        quote: | # this will include new lines to allow paragraphs
         description: |
-          - 필리핀 어학연수 장학생 2회 연속 선발
+          - 필리핀 어학연수 장학생 2회 연속 선발 ( 총 6개월 연수 )
 
 #  - title: Experience
 #    layout: list
