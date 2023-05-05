@@ -65,21 +65,21 @@ about_content: | # this will include new lines to allow paragraphs
   <center><img src="https://ghchart.rshah.org/219138/Joo614"/></center>
 
 content:
-  - title: <strong>Strength</strong> # Title for the section
+  - title: Strength # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         description: |
           * <strong>1일 1커밋</strong><br>
-            -> 문제 해결 능력을 기르기 위해 하루에 한개 이상의 알고리즘 문제를 꾸준히 풀고 있습니다.
+            ➜ 문제 해결 능력을 기르기 위해 하루에 한개 이상의 알고리즘 문제를 꾸준히 풀고 있습니다.
           <br><br>
           * <strong>꾸준하고 잘 정리된 블로깅</strong><br>
-            -> 6개월 교육기간 동안 꾸준히 배운 내용을 기록하였고, 이후에도 꾸준히 블로깅을 하고 있습니다.
-            -> 부트 캠프 교육자분께 41기 중에 제일 꾸준히 블로깅을 잘 한다는 칭찬을 들은 경험이 있습니다.
+            ➜ 6개월 교육기간 동안 꾸준히 배운 내용을 기록하였고, 이후에도 꾸준히 블로깅을 하고 있습니다.
+            ➜ 부트 캠프 교육자분께 41기 중에 제일 꾸준히 블로깅을 잘 한다는 칭찬을 들은 경험이 있습니다.
           <br><br>
           * <strong>긍정적인 에너지와 의사소통에 강점</strong><br>
-            -> 부트캠프에서 여러 번의 페어 프로그래밍을 하며 들은 피드백 중 가장 많이 받은 리뷰입니다.
-            -> 긍정적인 에너지를 보유하고 사람들에게 전파합니다.
+            ➜ 부트캠프에서 여러 번의 페어 프로그래밍을 하며 들은 피드백 중 가장 많이 받은 리뷰입니다.
+            ➜ 긍정적인 에너지를 보유하고 사람들에게 전파합니다.
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
