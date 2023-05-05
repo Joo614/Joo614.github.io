@@ -60,9 +60,6 @@ about_content: | # this will include new lines to allow paragraphs
   저는 오버 커뮤니케이션을 지향합니다.  
   프로젝트를 진행하면서 이는 곧 프로젝트의 결과물과 직결된다는 것을 깨달았습니다.  
   보다 많은 커뮤니케이션을 통해 개개인의 성장과 더불어 좋은 결과물을 만들고 싶습니다.
-  <br><br>
-  <h5>< 나의 깃허브 잔디 ></h5>
-  <center><img src="https://ghchart.rshah.org/219138/Joo614"/></center>
 
 content:
   - title: Strength # Title for the section
@@ -72,6 +69,8 @@ content:
         description: |
           * <strong>1일 1커밋</strong><br>
             ➜ 문제 해결 능력을 기르기 위해 하루에 한개 이상의 알고리즘 문제를 꾸준히 풀고 있습니다.
+          <h5>< 나의 깃허브 잔디 ></h5>
+          <center><img src="https://ghchart.rshah.org/219138/Joo614"/></center>
           <br><br>
           * <strong>꾸준하고 잘 정리된 블로깅</strong><br>
             ➜ 6개월 교육기간 동안 꾸준히 배운 내용을 기록하였고, 이후에도 꾸준히 블로깅을 하고 있습니다.  
