@@ -131,7 +131,7 @@ content:
           - <strong>설명 :</strong> 택시비가 급증함에 따라, 탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 <strong>카 쉐어링 서비스</strong>입니다. 🚖
           <br><br>
           - <strong>프로젝트 구조 :</strong>
-          <left><img src="images/yata 기술 스택.PNG" width="50%" title="YATA 프로젝트" alt="YATA 프로젝트" style = "c"></left>
+          <center><img src="images/yata 기술 스택.PNG" width="50%" title="YATA 프로젝트" alt="YATA 프로젝트" style = "c"></center>
           - <strong>맡은 역할 :</strong> 백엔드 개발
             - 게시물에 신청 / 초대 기능 구현
             - 신청 수락 / 거절 기능 구현
@@ -154,9 +154,9 @@ content:
         caption: 2022.08 - 2023.02
         sub_title: Advanced software engineering, Immersive program
         quote: |
-          - Java를 활용해 MVC 패턴과 Spring Boot 기반인 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 중점으로 학습  
+          - Java를 활용해 MVC 패턴과 Spring Boot 기반인 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 중점으로 학습
           <br><br>
-          - 20주 동안 매일 알고리즘 문제 풀이 및 페어 프로그래밍 참여로, 페어와 함께 과제 수행 및 코드 리뷰  
+          - 20주 동안 매일 알고리즘 문제 풀이 및 페어 프로그래밍 참여로, 페어와 함께 과제 수행 및 코드 리뷰
           <br><br>
           - 협업 프로젝트 2회 진행 ( 2주 프로젝트 / 4주 프로젝트 )
 #        description: |
