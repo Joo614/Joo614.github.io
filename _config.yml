@@ -108,7 +108,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: YATA (야!타) 카 쉐어링 서비스
@@ -153,11 +153,13 @@ content:
         title: 코드스테이츠 백엔드 부트캠프 41기
         caption: 2022.08 - 2023.02
         sub_title: Advanced software engineering, Immersive program
-#        quote: | # this will include new lines to allow paragraphs
-        description: |
+        quote: |
           - Java를 활용해 MVC 패턴과 Spring Boot 기반인 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 중점으로 학습  
+          |
           - 20주 동안 매일 알고리즘 문제 풀이 및 페어 프로그래밍 참여로, 페어와 함께 과제 수행 및 코드 리뷰  
+          |
           - 협업 프로젝트 2회 진행 ( 2주 프로젝트 / 4주 프로젝트 )
+#        description: |
       - layout: top-middle
         title: 장안대학교
         caption: 2018.03 - 2020.02
