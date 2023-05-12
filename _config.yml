@@ -49,7 +49,7 @@ instagram_username: h._.jjju
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/프로필.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요, 주현주입니다.  
+  안녕하세요, 신입 개발자 주현주입니다.  
   저는 전혀 다른 직종에서 일을 하다 프로그래밍에 빠져들어, 2022년 8월부터 시작한 국비지원 교육을 수료하였습니다.
   <br><br>
   처음 배울 땐 많이 어려웠지만 막상 배우면서 어려운 에러를 핸들링하며 해결하였을 때 느꼈던 엄청난 쾌감과,  
@@ -113,8 +113,6 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: YATA (야!타) 카 쉐어링 서비스
-        quote: >
-          ( 코드스테이츠 부트캠프에서 진행한 프로젝트입니다. )
         link: https://yata-tau.vercel.app/
         caption : 2023.01 - 2023.02
 #        sub_title : TEAM PROJECT
@@ -126,7 +124,8 @@ content:
 #          - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #            icon: fab fa-github
 #            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-
+        quote: >
+          ( 코드스테이츠 부트캠프에서 진행한 프로젝트입니다. )
         description: | # this will include new lines to allow paragraphs
           - <strong>인원 :</strong> 백엔드 3인 + 프론트엔드 3인
           <br><br>
@@ -151,7 +150,7 @@ content:
     content:
       - layout: top-middle
         title: 코드스테이츠 백엔드 부트캠프 41기
-        caption: 2022.08 - 2023.02
+        caption: 2022.08 - 2023.02 ( 6개월 )
         sub_title: <span style="color:gray">Advanced software engineering, Immersive program</span>
         quote: |
           - Java를 활용해 MVC 패턴과 Spring Boot 기반인 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 중점으로 학습
@@ -165,7 +164,7 @@ content:
         caption: 2018.03 - 2020.02
         sub_title: 호텔경영학과
         quote: |
-          필리핀 어학연수 장학생 2회 연속 선발 ( 총 6개월 연수 )
+          - 필리핀 어학연수 장학생 2회 연속 선발 ( 총 6개월 연수 )
 #        description: |
 
 #  - title: Experience
