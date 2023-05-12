@@ -56,7 +56,8 @@ about_content: | # this will include new lines to allow paragraphs
   완전히 빠져들어 생활 패턴까지 바뀐 저를 발견하게 되면서,  
   기능 개발이 제 적성에 굉장히 잘 맞는다는 것을 느꼈고 어려워도 즐기며 일할 수 있는 개발자의 길을 택하였습니다.
   <br><br>
-  적응력이 좋고 한 번 시작한 것은 끝을 보는 끈기 있는 성격이며, 부트캠프 수료 이후에도 지속적으로 발전하려고 노력하고 있습니다.
+  적응력이 좋고 한 번 궁금한 것은 끝까지 파고드는 성격이며, 
+  무엇보다도 <strong>꾸준함</strong>의 가치를 알기에 <ins>1일 1커밋</ins> 운동과 <ins>기술 블로그</ins> 운영을하고 있습니다.
   <br><br>
   저는 <strong>오버 커뮤니케이션</strong>을 지향하며 <strong>긍정적인 에너지</strong>를 가지고 있습니다.  
   프로젝트를 진행하면서 이는 곧 프로젝트의 결과물과 직결된다는 것을 깨달았습니다.  
@@ -133,9 +134,7 @@ content:
           - <strong>프로젝트 구조 :</strong>
           <center><img src="images/yata 기술 스택.PNG" width="50%" title="YATA 프로젝트" alt="YATA 프로젝트" style = "c"></center>
           - <strong>맡은 역할 :</strong> 백엔드 개발
-            - 게시물에 신청 / 초대 기능 구현
-            - 신청 수락 / 거절 기능 구현
-            - 포인트 결제 및 충전 / 결제 내역 조회 기능 구현
+            - 게시물에 신청, 초대 기능 / 신청 수락, 거절 기능 / 포인트 결제 및 충전, 결제 내역 조회 기능 구현
             - 슬라이스를 이용한 페이징 처리
             - Hibernate 2차 캐시를 통한 애플리케이션 성능 개선
           <br><br>
@@ -152,7 +151,7 @@ content:
       - layout: top-middle
         title: 코드스테이츠 백엔드 부트캠프 41기
         caption: 2022.08 - 2023.02
-        sub_title: Advanced software engineering, Immersive program
+        sub_title: <span style="color:gray">Advanced software engineering, Immersive program</span>
         quote: |
           - Java를 활용해 MVC 패턴과 Spring Boot 기반인 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 중점으로 학습
           <br><br>
