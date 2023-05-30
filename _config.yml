@@ -47,7 +47,7 @@ instagram_username: h._.jjju
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/취업사진.jpg
+about_profile_image: images/취업사진 정방형.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요, 신입 개발자 주현주입니다.  
   저는 전혀 다른 직종에서 일을 하다 프로그래밍에 빠져들어, 2022년 8월부터 시작한 국비지원 교육을 수료하였습니다.
