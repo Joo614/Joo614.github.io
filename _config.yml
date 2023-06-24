@@ -132,7 +132,7 @@ content:
           - <strong>설명 :</strong> 택시비가 급증함에 따라, 탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 <strong>카 쉐어링 서비스</strong>입니다. 🚖
           <br><br>
           - <strong>프로젝트 구조 :</strong>
-          <center><img src="images/yata 기술 스택.PNG" width="50%" title="YATA 프로젝트" alt="YATA 프로젝트" style = "c"></center>
+          <center><img src="images/yata 기술 스택.PNG" width="45%" title="YATA 프로젝트" alt="YATA 프로젝트" style = "c"></center>
           - <strong>Spring MVC 기반의 CRUD 기능을 수행하는 서버 구현</strong>
           <br><br>
           - <strong>CI/CD 파이프라인 설계 및 구현</strong>  
