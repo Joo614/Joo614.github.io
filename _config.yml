@@ -96,7 +96,6 @@ content:
           - Spring Boot, Spring MVC, Spring Security, Spring Data JPA
           - JPA & Hibernate, QueryDSL
           - Gradle, IntelliJ
-          - JUnit5, Asciidoctor
       - layout: left
         title: Devops
         description: | # this will include new lines to allow paragraphs
@@ -161,7 +160,7 @@ content:
         caption: 2022.08 - 2023.02 ( 6개월 )
         sub_title: <span style="color:gray">Advanced software engineering, Immersive program</span>
         quote: |
-          - Java를 활용해 MVC 패턴과 Spring Boot 기반인 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 중점으로 학습
+          - Java를 활용해 MVC 패턴과 Spring Boot 기반 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 중점으로 학습
           <br><br>
           - 20주 동안 매일 알고리즘 문제 풀이 및 페어 프로그래밍 참여로, 페어와 함께 과제 수행 및 코드 리뷰
           <br><br>
