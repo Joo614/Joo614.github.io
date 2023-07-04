@@ -140,10 +140,10 @@ content:
           <br><br>
           - <strong>성능 최적화</strong>  
              → 구현한 로직의 슬로우 쿼리를 찾아보고, N+1 식별 및 2차 캐시 및 QueryDsl 도입  
-             → DB 트래픽을 낮추기 위해 Redis 캐시 서버 적용
           <br><br>
           - <strong>코드 품질에 대한 노력</strong>  
              → 팀원 간의 코드 스타일을 병합하고, 프로젝트의 테스트 커버리지를 높이기 위한 테스트 코드 작성과 주 1회 코드 리뷰
+#             → DB 트래픽을 낮추기 위해 Redis 캐시 서버 적용
 #          - <strong>프로젝트 구조 :</strong>
 #          <center><img src="images/yata 기술 스택.PNG" width="45%" title="YATA 프로젝트" alt="YATA 프로젝트" style = "c"></center>
 #          - <strong>맡은 역할 :</strong> 백엔드 개발
@@ -162,7 +162,7 @@ content:
         quote: |
           - Java를 활용해 MVC 패턴과 Spring Boot 기반 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 중점으로 학습
           <br><br>
-          - 20주 동안 매일 알고리즘 문제 풀이 및 페어 프로그래밍 참여로, 페어와 함께 과제 수행 및 코드 리뷰
+          - 20주 동안 매일 알고리즘 문제 풀이 및 페어 프로그래밍 참여
           <br><br>
           - 협업 프로젝트 2회 진행 ( 2주 프로젝트 / 4주 프로젝트 )
 #        description: |
