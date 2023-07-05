@@ -163,8 +163,8 @@ content:
           - Java를 활용해 MVC 패턴과 Spring Boot 기반 ORM인 JPA & Hibernate를 이용하여 Restful API 구축을 중점으로 학습
           <br><br>
           - 20주 동안 매일 알고리즘 문제 풀이 및 페어 프로그래밍 참여
-          <br><br>
-          - 협업 프로젝트 2회 진행 ( 2주 프로젝트 / 4주 프로젝트 )
+#          <br><br>
+#          - 협업 프로젝트 2회 진행 ( 2주 프로젝트 / 4주 프로젝트 )
 #        description: |
       - layout: top-middle
         title: 장안대학교
@@ -173,6 +173,26 @@ content:
         quote: |
           - 필리핀 어학연수 장학생 2회 연속 선발 ( 총 6개월 연수 )
 #        description: |
+  - title: Studies # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: 1일 1커밋 스터디
+        caption: 2022.10 ~
+#        sub_title:
+        quote: |
+          - Github 사용법 학습 및 활용 및 알고리즘 문제 풀이
+          <br><br>
+          - 팀원들과 모각코 및 주 1회 코드 리뷰
+      #        description: |
+      - layout: top-middle
+        title: 프로젝트 기술 공부 스터디
+        caption: 2023.03 ~
+#        sub_title: 호텔경영학과
+        quote: |
+          - 프로젝트에 사용했던 기술 공부 및 블로깅
+          <br><br>
+          - 매일 공부한 내용 발표
 
 #  - title: Experience
 #    layout: list
