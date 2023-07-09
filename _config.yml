@@ -181,9 +181,9 @@ content:
         caption: 2023.03 ~
         #        sub_title: 호텔경영학과
         quote: |
-          - 프로젝트에 사용했던 기술 공부 및 블로깅
-          <br><br>
-          - 매일 공부한 내용 발표
+          - 프로젝트에 사용했던 기술 공부와 블로깅 및 매일 공부한 내용 발표
+#          <br><br>
+#          - 매일 공부한 내용 발표
       - layout: top-middle
         title: 1일 1커밋 스터디
         caption: 2022.10 ~
