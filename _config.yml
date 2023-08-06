@@ -107,8 +107,7 @@ content:
 #          - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #            icon: fab fa-github
 #            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          ( 코드스테이츠 부트캠프에서 진행한 프로젝트입니다. )
+#        quote: >
         description: | # this will include new lines to allow paragraphs
           - <strong>인원 :</strong> 백엔드 3인 + 프론트엔드 3인
           <br><br>
