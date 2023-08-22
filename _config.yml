@@ -90,17 +90,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: YATA (야!타) 카 쉐어링 서비스
+#        border: weak  # Value of `weak` will display a weak border below this item. # Any
+#                      # other value (or no value) means no border will be displayed
+        name: YATA (야!타) 카 쉐어링 서비스
         link: https://yata-tau.vercel.app/
-        caption : 2023.01 - 2023.02
+        dates : 2023.01 - 2023.02
 #        sub_title : TEAM PROJECT
 #        link_text: Link Text
-        additional_links:
-          - title:  YATA 프로젝트 Github
-            icon: fab fa-github
-            url: https://github.com/Joo614/Yata-Project
+#        additional_links:
+#          - title:  YATA 프로젝트 Github
+#            icon: fab fa-github
+#            url: https://github.com/Joo614/Yata-Project
         description: | # this will include new lines to allow paragraphs
           - <strong>인원 :</strong> 백엔드 3인 + 프론트엔드 3인
           <br><br>
