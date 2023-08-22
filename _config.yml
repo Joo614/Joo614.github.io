@@ -64,7 +64,7 @@ about_content: | # this will include new lines to allow paragraphs
   보다 많은 커뮤니케이션을 통해 개개인의 성장과 더불어 좋은 결과물을 만드는 데에 기여하고 싶습니다.
   <br><br>
   <h5>< 나의 깃허브 잔디 ></h5>
-  <center><img src="https://ghchart.rshah.org/219138/Joo614"/></center>
+  <img src="https://ghchart.rshah.org/219138/Joo614"/>
 
 content:
   - title: Skills # Title for the section
