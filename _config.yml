@@ -65,7 +65,6 @@ about_content: | # this will include new lines to allow paragraphs
   <br><br>
   <h5>< 나의 깃허브 잔디 ></h5>
   <center><img src="https://ghchart.rshah.org/219138/Joo614"/></center>
-#  무엇보다도 <strong>꾸준함</strong>의 가치를 알기에 <ins><a href="https://github.com/Joo614">1일 1커밋</a></ins> 운동과 <ins><a href="https://velog.io/@wnguswn7">기술 블로그</a></ins>운영을 하고 있습니다.
 
 content:
   - title: Skills # Title for the section
@@ -73,8 +72,6 @@ content:
     content:
       - layout: left
         title: Backend
-#        quote: >
-#          설명
         description: | # this will include new lines to allow paragraphs
           - JAVA 
           - Spring Boot, Spring MVC, Spring Security, Spring Data JPA
@@ -92,7 +89,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: YATA (야!타) 카 쉐어링 서비스
@@ -104,10 +101,6 @@ content:
           - title:  YATA 프로젝트 Github
             icon: fab fa-github
             url: https://github.com/Joo614/Yata-Project
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#        quote: >
         description: | # this will include new lines to allow paragraphs
           - <strong>인원 :</strong> 백엔드 3인 + 프론트엔드 3인
           <br><br>
