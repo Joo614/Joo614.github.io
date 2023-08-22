@@ -92,7 +92,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: YATA (야!타) 카 쉐어링 서비스
@@ -126,7 +126,7 @@ content:
           <br><br>
           - <strong>코드 품질에 대한 노력</strong>  
              → 팀원 간의 코드 스타일을 병합하고, 프로젝트의 테스트 커버리지를 높이기 위한 테스트 코드 작성과 주 1회 코드 리뷰
-             → DB 트래픽을 낮추기 위해 Redis 캐시 서버 적용
+#             → DB 트래픽을 낮추기 위해 Redis 캐시 서버 적용
 #          - <strong>프로젝트 구조 :</strong>
 #          <center><img src="images/yata 기술 스택.PNG" width="45%" title="YATA 프로젝트" alt="YATA 프로젝트" style = "c"></center>
 #          - <strong>맡은 역할 :</strong> 백엔드 개발
@@ -138,7 +138,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: 코드스테이츠 백엔드 부트캠프 41기
         caption: 2022.08 - 2023.02 ( 6개월 )
         sub_title: <span style="color:gray">Advanced software engineering, Immersive program</span>
