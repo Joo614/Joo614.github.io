@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: 주현주 (Hyunju Joo)
-title: 백엔드 개발자
+name: 백엔드 개발자 주현주
+#title: 백엔드 개발자
 email: 57wnguswn57@gmail.com
 #blog: https://velog.io/@wnguswn7
 
@@ -37,7 +37,7 @@ additional_links:
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
-instagram_username: h._.jjju
+#instagram_username: h._.jjju
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
