@@ -94,18 +94,16 @@ content:
 #                      # other value (or no value) means no border will be displayed
         title: YATA (야!타) 카 쉐어링 서비스
         link: https://yata-tau.vercel.app/
-        dates: 2023.01 - 2023.02
+        caption: 2023.01 - 2023.02 / 6인
 #        sub_title : TEAM PROJECT
 #        link_text: Link Text
 #        additional_links:
 #          - title:  프로젝트 Github
 #            icon: fab fa-github
 #            url: https://github.com/Joo614/Yata-Project
+        quote: |
+          탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 <strong>카 쉐어링 서비스</strong>입니다. 🚖
         description: | # this will include new lines to allow paragraphs
-          - <strong>인원 :</strong> 백엔드 3인 + 프론트엔드 3인
-          <br><br>
-          - <strong>설명 :</strong> 탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 <strong>카 쉐어링 서비스</strong>입니다. 🚖
-          <br><br>
           - <strong>Spring MVC 기반의 CRUD 기능을 수행하는 서버 구현</strong>
           <br><br>
           - <strong>유지보수의 효율성을 높히기 위한 로그의 시각화 </strong>  
@@ -123,7 +121,7 @@ content:
     content:
       - layout: left
         title: 코드스테이츠 백엔드 부트캠프 41기
-        dates: 2022.08 - 2023.02
+        caption: 2022.08 - 2023.02
         sub_title: <span style="color:gray">Advanced software engineering, Immersive program</span>
 #        quote: |
         description: |
@@ -134,7 +132,7 @@ content:
 #          - 협업 프로젝트 2회 진행 ( 2주 프로젝트 / 4주 프로젝트 )
       - layout: left
         title: 장안대학교
-        dates: 2018.03 - 2020.02
+        caption: 2018.03 - 2020.02
         sub_title: 호텔경영학과
 #        quote: |
         description: |
