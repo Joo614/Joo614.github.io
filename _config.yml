@@ -102,7 +102,7 @@ content:
 #            icon: fab fa-github
             url: https://github.com/Joo614/Yata-Project
         quote: |
-          탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 <strong>카 쉐어링 서비스</strong>입니다. 🚖
+          설명 : 탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 <strong>카 쉐어링 서비스</strong>입니다. 🚖
         description: | # this will include new lines to allow paragraphs
           - <strong>Spring MVC 기반의 CRUD 기능을 수행하는 서버 구현</strong>
           <br><br>
