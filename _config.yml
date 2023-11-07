@@ -146,11 +146,11 @@ content:
         description: |
           - 주 2회 'HTTP 완벽 가이드' 독서 및 리뷰
       - layout: left
-        title: 프로젝트 기술 공부 스터디
+        title: Spring 공부 스터디
         caption: 2023.03 ~ 현재
 #        quote: |
         description: |
-          - 프로젝트에 사용했던 기술 공부와 블로깅 및 매일 공부한 내용 발표
+          - Spring 관련 기술 공부와 블로깅 및 매일 공부한 내용 발표
       - layout: left
         title: 1일 1커밋 스터디
         caption: 2022.10 ~ 2023.08
