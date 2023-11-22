@@ -150,7 +150,8 @@ content:
         caption: 2023.03 ~ 06
 #        quote: |
         description: |
-          - Spring 관련 기술 공부와 블로깅 및 매일 공부한 내용 발표
+          - Spring 관련 기술 공부와 블로깅  
+          - 매일 공부한 내용 발표
       - layout: left
         title: 1일 1커밋 스터디
         caption: 2022.10 ~ 2023.08
