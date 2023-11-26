@@ -141,7 +141,7 @@ content:
     content:
       - layout: left
         title: HTTP 완벽 가이드 스터디
-        caption: 2023.09 ~ 현재
+        caption: 2023.10 ~ 현재
         #        quote: |
         description: |
           - 주 2회 'HTTP 완벽 가이드' 독서 및 리뷰
