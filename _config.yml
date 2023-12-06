@@ -135,6 +135,7 @@ content:
 #        quote: |
         description: |
           - 필리핀 어학연수 장학생 2회 연속 선발 ( 총 6개월 연수 )
+          - 업무 적응을 위한 영어 집중 교육 이수
 
   - title: Studies # Title for the section
     layout: list # Type of content section (list/text)
@@ -150,7 +151,7 @@ content:
         caption: 2023.03 ~ 06
 #        quote: |
         description: |
-          - Spring 관련 기술 공부와 블로깅  
+          - 프로젝트에서 사용했던 Spring 관련 기술 공부 및 블로깅  
           - 매일 공부한 내용 발표
       - layout: left
         title: 1일 1커밋 스터디
@@ -159,7 +160,6 @@ content:
 #        quote: |
         description: |
           - Github 사용법 학습 및 활용 및 알고리즘 문제 풀이
-          <br><br>
           - 팀원들과 모각코 및 주 1회 코드 리뷰
 
 #  - title: Experience
