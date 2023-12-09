@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   2022년 8월부터 6개월간 국비지원 교육을 수료하였고,  
   기능 구현에 대한 유효성 검사와 예외 처리에 대해 높은 관심을 가지고 있습니다.
   <br><br>
-  무엇보다 <strong>꾸준함</strong>의 가치를 알기에 <ins><a href="https://velog.io/@wnguswn7">기술 블로그</a></ins>를 운영하며 지금까지 약 130여개의 글을 작성하였으며,  
+  무엇보다 <strong>꾸준함</strong>의 가치를 알기에 <ins><a href="https://velog.io/@wnguswn7">기술 블로그</a></ins>를 운영하며 지금까지 약 140여개의 글을 작성하였으며,  
   제가 얻은 지식과 경험을 사람들에게 쉽게 전달할 수 있는 개발자로 성장하고자 노력합니다.
   <br><br>
   팀원들은 저에 대해 <strong>적극적으로 소통</strong>하며, <strong>긍정적인 에너지</strong>를 가지고 있다고 말합니다.  
@@ -111,7 +111,7 @@ content:
              → Spring AOP, slack 을 이용한 실시간 로깅 및 트래킹 구현, 각 API 요청 시 단계별 소요 시간 파악 가능
           <br><br>
           - <strong>성능 최적화</strong>  
-             → 구현한 로직의 슬로우 쿼리와 N+1 식별 후, QueryDsl 과 2차 캐시 도입
+             → 구현한 로직의 슬로우 쿼리와 N+1 문제 식별 후, QueryDsl 과 2차 캐시 도입
           <br><br>
           - <strong>코드 품질 향상을 위한 노력</strong>  
              → 팀원 간의 코드 스타일을 병합하고, 프로젝트의 테스트 커버리지를 높이기 위한 테스트 코드 작성과 주 1회 코드 리뷰
@@ -157,8 +157,7 @@ content:
         caption: 2023.03 ~ 06
 #        quote: |
         description: |
-          - 프로젝트에서 사용했던 Spring 관련 기술 공부 및 블로깅  
-          - 매일 공부한 내용 발표
+          - 프로젝트에서 사용했던 Spring 관련 기술 공부 및 블로깅 후 내용 발표
       - layout: left
         title: JAVA 1일 1커밋 스터디
         caption: 2022.10 ~ 2023.08
