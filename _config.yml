@@ -81,7 +81,7 @@ content:
           - MySQL 
           - Github Actions
           - AWS
-          - Nginx , Tomcat
+          - Nginx, Tomcat
           - Linux Ubuntu
 
   - title: Projects # Title for the section
