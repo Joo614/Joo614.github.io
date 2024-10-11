@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: 백엔드 개발자 주현주
-#title: 백엔드 개발자
+name: 주현주
+title: 백엔드 개발자
 email: 57wnguswn57@gmail.com
-blog: https://velog.io/@wnguswn7
+website: https://velog.io/@wnguswn7
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -55,9 +55,9 @@ about_content: | # this will include new lines to allow paragraphs
   지금까지 약 150개의 글을 작성하며 배운 내용을 정리하고, 다른 개발자들과의 소통을 강화해왔습니다.  
   블로깅은 저에게 지식의 체계화를 넘어 다양한 관점을 공유할 수 있는 중요한 도구로 자리잡았습니다.
   <br><br>
-  6개월간이 국비 지원 교육을 통해 웹 개발의 기초를 탄탄히 다졌습니다.  
-  특히, 코드의 재사용성과 최적화에 중점을 두어 개발하고 있으며, 새로운 기술을 배우고 적용하는 데 끊임없이 노력하고 있습니다.  
-  이 과정에서 항상 "왜"를 고민하며 깊이 있는 개발을 지향하고 있습니다.
+  6개월간의 국비 지원 교육을 통해 웹 개발의 기초를 탄탄히 다졌습니다.  
+  특히, 코드의 <strong>재사용성</strong>과 <strong>최적화</strong>에 중점을 두어 개발하고 있으며, 새로운 기술을 배우고 적용하는 데 끊임없이 노력하고 있습니다.  
+  이 과정에서 항상 <strong>"왜"</strong>를 고민하며 깊이 있는 개발을 지향하고 있습니다.
   <br><br>
   앞으로도 지속적으로 새로운 기술을 배우고 지식을 확장하여 더욱 전문적인 개발자로 성장하겠습니다.
 #  <br><br>
@@ -197,6 +197,7 @@ content:
       - layout: left
         title: SQLD
         caption: 2024.10
+        sub_title: 합격
         #        quote: |
         description: |
           - 데이터베이스 설계 및 SQL 쿼리 작성에 대한 깊은 이해를 바탕으로, 효율적인 데이터 처리 및 관리 능력을 향상시킴
