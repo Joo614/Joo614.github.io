@@ -109,7 +109,13 @@ content:
               → 
           <br><br>
           - <strong>Google Places API 연동</strong>  
+              → 외부 api 연동을 통해 어쩌구
+          <br><br>
+          - <strong>Web socket을 사용한 실시간성 유지?</strong>  
               → 새로운 기술 사용
+          <br><br>
+          - <strong>S3를 통한 파일 업로드</strong>  
+              → uuid 사용 어쩌구?
           <br><br>
       - layout: left
         #        border: weak  # Value of `weak` will display a weak border below this item. # Any
