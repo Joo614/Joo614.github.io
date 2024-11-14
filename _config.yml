@@ -102,10 +102,9 @@ content:
         quote: |
           설명 : 여행갈 친구들을 모아 최적의 루트로 여정을 함께 계획하는 '여행 메이트 서비스'입니다.
         description: | # this will include new lines to allow paragraphs  
-          https://velog.io/@wnguswn7/CICD%EC%99%80-Github-Actions%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94
-          - <strong>GitHub Actions</strong>를 활용한 배포 자동화를 통해 효율적인 <strong>CI/CD 파이프라인</strong> 설계  
+          - <ins><a href="https://velog.io/@wnguswn7/CICD%EC%99%80-Github-Actions%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94"><strong>GitHub Actions</strong></a></ins>를 활용한 배포 자동화를 통해 효율적인 <strong>CI/CD 파이프라인</strong> 설계  
           <br><br>
-          - <strong>QueryDSL</strong> 도입으로 슬로우 쿼리를 개선하고 시스템 <strong>성능 최적화</strong>
+          - <ins><a href="https://velog.io/@wnguswn7/QueryDsl%EC%9D%98-%EC%82%AC%EC%9A%A9%EA%B3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0"><strong>QueryDsl</strong></a></ins> 도입으로 슬로우 쿼리를 개선하고 시스템 <strong>성능 최적화</strong>
           <br><br>
           - <ins><a href="https://velog.io/@wnguswn7/Google-places-API-%EB%8B%A4%EC%A4%91-%EC%9A%94%EC%B2%AD-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0"><strong>Google Places API</strong></a></ins> 연동으로 실시간 장소 정보를 손쉽게 제공
           <br><br>
