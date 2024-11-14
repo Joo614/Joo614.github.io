@@ -137,7 +137,7 @@ content:
           <br><br>
           - 팀원 간의 코드 스타일을 병합 및 테스트 커버리지 향상을 위한 <strong>테스트 코드 작성</strong>과 <strong>주 1회 코드 리뷰</strong>
           <br><br>
-          - <strong>Redis</strong>를 사용한 로그아웃 기능 https://velog.io/@wnguswn7/Project-Redis%EB%A1%9C-%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
+          - <ins><a href="https://velog.io/@wnguswn7/Project-Redis%EB%A1%9C-%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0"><strong>Redis</strong></a></ins>를 사용한 로그아웃 기능 
           <br><br>
           - <ins><a href="https://velog.io/@wnguswn7/Project-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-Spring-Batch-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0"><strong>Spring Batch</strong></a></ins>를 사용하여 게시물 상태 자동 업데이트
           <br><br>
