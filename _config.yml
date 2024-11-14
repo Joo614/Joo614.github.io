@@ -94,7 +94,7 @@ content:
         link: https://github.com/J-P-plan/J-P_BE
         caption: 2024.03 ~ / 5인
           <br><br>
-          여행갈 친구들을 모아 최적의 루트로 여정을 함께 계획하는 '여행 메이트 서비스'입니다.
+          설명 - 여행갈 친구들을 모아 최적의 루트로 여정을 함께 계획하는 '여행 메이트 서비스'입니다.
         #        sub_title : TEAM PROJECT
         #        link_text: Link Text
 #        additional_links:
@@ -122,14 +122,16 @@ content:
         title: YATA (야!타) 카 쉐어링 서비스
         link: https://yata-tau.vercel.app/
         caption: 2023.01 - 2023.02 / 6인
-        #        sub_title : TEAM PROJECT
-        #        link_text: Link Text
+          <br><br>
+          설명 - 탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 <strong>카 쉐어링 서비스</strong>입니다. 🚖
+        sub_title : TEAM PROJECT
+        link_text: Link Text
         additional_links:
           #          - title:  프로젝트 Github
           #            icon: fab fa-github
           url: https://github.com/Joo614/Yata-Project
-        quote: |
-          설명 : 탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 <strong>카 쉐어링 서비스</strong>입니다. 🚖
+#        quote: |
+#          설명 : 탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 <strong>카 쉐어링 서비스</strong>입니다. 🚖
         description: | # this will include new lines to allow paragraphs
           - <ins><a href="https://velog.io/@wnguswn7/Project-Spring-AOP%EB%A1%9C-%EB%A1%9C%EA%B7%B8-%EC%95%8C%EB%A6%BC-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0"><strong>Spring AOP</strong></a></ins>과 slack 을 이용한 <strong>로그의 시각화</strong>로 유지보수의 효율성 향상
           <br><br>
