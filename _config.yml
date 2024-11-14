@@ -91,16 +91,18 @@ content:
         #        border: weak  # Value of `weak` will display a weak border below this item. # Any
         #                      # other value (or no value) means no border will be displayed
         title: J와 P (제이와피)
-        link: 아직 없음
+        link: https://github.com/J-P-plan/J-P_BE
         caption: 2024.03 ~ / 5인
+          <br><br>
+          여행갈 친구들을 모아 최적의 루트로 여정을 함께 계획하는 '여행 메이트 서비스'입니다.
         #        sub_title : TEAM PROJECT
         #        link_text: Link Text
-        additional_links:
+#        additional_links:
           #          - title:  프로젝트 Github
           #            icon: fab fa-github
-          url: https://github.com/J-P-plan/J-P_BE
-        quote: |
-          설명 : 여행갈 친구들을 모아 최적의 루트로 여정을 함께 계획하는 '여행 메이트 서비스'입니다.
+#          url: https://github.com/J-P-plan/J-P_BE
+#        quote: |
+#          설명 : 여행갈 친구들을 모아 최적의 루트로 여정을 함께 계획하는 '여행 메이트 서비스'입니다.
         description: | # this will include new lines to allow paragraphs  
           - <ins><a href="https://velog.io/@wnguswn7/Project-SSL-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-2-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0"><strong>SSL</strong></a></ins> 인증서를 통해 <strong>HTTPS</strong>를 적용하여 보안 강화
           <br><br>
