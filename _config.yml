@@ -129,8 +129,6 @@ content:
         quote: |
           설명 : 탑승자는 합리적인 가격으로 / 운전자는 안전하게 부수입을 얻을 수 있는 <strong>카 쉐어링 서비스</strong>입니다. 🚖
         description: | # this will include new lines to allow paragraphs
-          - Spring MVC 기반의 CRUD 기능을 수행하는 서버 구현
-          <br><br>
           - <ins><a href="https://velog.io/@wnguswn7/Project-Spring-AOP%EB%A1%9C-%EB%A1%9C%EA%B7%B8-%EC%95%8C%EB%A6%BC-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0"><strong>Spring AOP</strong></a></ins>과 slack 을 이용한 <strong>로그의 시각화</strong>로 유지보수의 효율성 향상
           <br><br>
           - 슬로우 쿼리와 N+1 문제 식별 후, <ins><a href="https://velog.io/@wnguswn7/QueryDsl%EC%9D%98-%EC%82%AC%EC%9A%A9%EA%B3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0"><strong>QueryDsl</strong></a></ins> 과 <ins><a href="https://velog.io/@wnguswn7/Project-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98-2%EC%B0%A8-%EC%BA%90%EC%8B%9C-%EB%8F%84%EC%9E%85-%EC%A0%84%ED%9B%84-%EB%B9%84%EA%B5%90"><strong>2차 캐시</strong></a></ins> 도입으로 성능 최적화
