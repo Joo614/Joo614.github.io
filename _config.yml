@@ -175,7 +175,7 @@ content:
     content:
       - layout: left
         title: HTTP 완벽 가이드 스터디
-        caption: 2023.10 ~ 현재
+        caption: 2023.10 ~ 2023.02
         #        quote: |
         description: |
           - 주 2회 'HTTP 완벽 가이드' 독서 및 리뷰
@@ -191,7 +191,7 @@ content:
         #        sub_title:
         #        quote: |
         description: |
-          - Github 사용법 학습 및 활용 및 알고리즘 문제 풀이
+          - 알고리즘 문제 풀이로 문제 해결 능력 강화
           - 팀원들과 모각코 및 주 1회 코드 리뷰
 
   - title: 자격증 # Title for the section
