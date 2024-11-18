@@ -117,6 +117,7 @@ content:
           <br><br>
           - <strong>AWS S3</strong>를 통한 안전하고 효율적인 <ins><a href="https://velog.io/@wnguswn7/Project-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84-2-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0"><strong>파일 업로드</strong></a></ins>
           <br><br>
+          <br><br>
       - layout: left
         border: weak
         # Value of `weak` will display a weak border below this item. # Any
@@ -146,7 +147,6 @@ content:
           - <ins><a href="https://velog.io/@wnguswn7/Project-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-Spring-Batch-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0"><strong>Spring Batch</strong></a></ins>를 사용하여 게시물 상태 자동 업데이트
           <br><br>
           - <ins><a href="https://velog.io/@wnguswn7/%ED%86%A0%EC%8A%A4%ED%8E%98%EC%9D%B4%EB%A8%BC%EC%B8%A0-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-1-%EA%B2%B0%EC%A0%9C-%ED%9D%90%EB%A6%84"><strong>토스 페이먼츠 API</strong></a></ins> 도입으로 원활한 결제 처리 및 사용자 경험 향상
-          <br><br>
           <br><br>
 
   - title: Education # Title for the section
