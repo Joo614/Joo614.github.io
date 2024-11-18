@@ -83,6 +83,7 @@ content:
           - AWS
           - Nginx, Tomcat
           - Linux Ubuntu
+          <br><br>
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -116,7 +117,6 @@ content:
           - <strong>WebSocket</strong>을 사용하여 끊김 없는 <strong>실시간 통신</strong> 구현
           <br><br>
           - <strong>AWS S3</strong>를 통한 안전하고 효율적인 <ins><a href="https://velog.io/@wnguswn7/Project-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84-2-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0"><strong>파일 업로드</strong></a></ins>
-          <br><br>
           <br><br>
       - layout: left
         border: weak
